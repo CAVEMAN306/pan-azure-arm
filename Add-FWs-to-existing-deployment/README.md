@@ -12,7 +12,7 @@ The following are required
 - Resource Group for VNET
                     
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwwce%2Fazure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewalls-to-Existing-VNET-Zone-AzureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCAVEMAN306%2Fpan-azure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewalls-to-Existing-VNET-Zone-AzureDeploy.json)
 
 ## Single Arm Firewall (Management + Trust Interfaces)
 
@@ -22,7 +22,7 @@ The following are required
 - VNET - with 2 subnets (Management + Trust)
 - Resource Group for Firewall
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwwce%2Fazure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-2NIC.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCAVEMAN306%2Fpan-azure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-2NIC.json)
 
 
 ## Two Arm Firewall (Management + Untrust + Trust Interfaces)
@@ -33,7 +33,7 @@ The following are required
 - VNET - with 2 subnets (Management + Untrust + Trust)
 - Resource Group for Firewall
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwwce%2Fazure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCAVEMAN306%2Fpan-azure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy.json)
 
 ## Three Arm Firewall (Management + Untrust + Trust + VPN Interfaces)
 
@@ -43,7 +43,7 @@ The following are required
 - VNET - with 3 subnets
 - Resource Group for Firewall
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwwce%2Fazure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-4NIC.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCAVEMAN306%2Fpan-azure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-4NIC.json)
 
 ## Three Arm Firewall WITHOUT an Availability Set (Management + Untrust + Trust + VPN Interfaces)
 
@@ -51,7 +51,7 @@ This template was created to support the deployment of a 3 interface Palo Alto N
 - VNET - with 3 subnets
 - Resource Group for Firewall
 
-[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwwce%2Fazure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-no-AS.json)
+[<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCAVEMAN306%2Fpan-azure-arm%2Fmaster%2FAdd-new-firewalls-to-existing-deployment%2FAdd-New-Firewall-AzureDeploy-no-AS.json)
 
 
 FEATURES:
